@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <!-- Homepage -->
+  <url>
+    <loc>https://BCAPROJECTS.github.io/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.00</priority>
+  </url>
+
+  <!-- Main Pages -->
+  <url>
+    <loc>https://BCAPROJECTS.github.io/articles.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://BCAPROJECTS.github.io/tutorials.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://BCAPROJECTS.github.io/about_us.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://BCAPROJECTS.github.io/contact_us.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+  </url>
+
+  <!-- Articles -->
+  <url>
+    <loc>https://BCAPROJECTS.github.io/articles/article_01_linux_env.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://BCAPROJECTS.github.io/articles/article_02_ai_prompting.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://BCAPROJECTS.github.io/articles/article_03_android_root.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://BCAPROJECTS.github.io/articles/article_04_crypto_safety.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://BCAPROJECTS.github.io/articles/article_05_router_vuln.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://BCAPROJECTS.github.io/articles/article_06_A_Defense_of_Risk_Cost_Benefit_Analysis.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://BCAPROJECTS.github.io/articles/article_07_resilience_thesis.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://BCAPROJECTS.github.io/articles/article_08_Kibbutz_israel.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.60</priority>
+  </url>
+
+  <!-- Tutorials -->
+  <url>
+    <loc>https://BCAPROJECTS.github.io/tutorials/guide_01_minimal_python.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://BCAPROJECTS.github.io/tutorials/guide_02_router_scan.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://BCAPROJECTS.github.io/tutorials/guide_03_binary_intro.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://BCAPROJECTS.github.io/tutorials/guide_04_app_reverse.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.60</priority>
+  </url>
+
+  <!-- Legal / Footer Pages -->
+  <url>
+    <loc>https://BCAPROJECTS.github.io/privacy_policy.html</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.30</priority>
+  </url>
+  <url>
+    <loc>https://BCAPROJECTS.github.io/terms_and_condition.html</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.30</priority>
+  </url>
+
+</urlset>
